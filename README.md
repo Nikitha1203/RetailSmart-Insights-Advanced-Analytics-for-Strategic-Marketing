@@ -1,7 +1,7 @@
 # RetailSmart-Insights-Advanced-Analytics-for-Strategic-Marketing
 ## Introduction
 
-The goal of this lab is to predict which departments will be affected by markdowns and to what extent. We will use advanced machine learning methods to:
+The goal of this project is to predict which departments will be affected by markdowns and to what extent. We will use advanced machine learning methods to:
 
 * Predict the department-wide sales for each store
 * Model the effects of markdowns on holiday weeks
